@@ -156,9 +156,9 @@ const currentFocus = {
 
 <div align="center">
 
-**📧 Email:** alex@maars-logic.com  
+**📧 Email:** contact@maars-logic.com  
 **🌐 Website:** [maars-logic.com](https://maars-logic.com)  
-**💼 LinkedIn:** [Alex Rassai](https://linkedin.com/in/alex-rassai)
+**💼 LinkedIn:** [Alex Rassai](https://www.linkedin.com/in/alirassai/)
 
 ---
 
